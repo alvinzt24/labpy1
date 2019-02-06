@@ -1,6 +1,6 @@
 # PROGRAM 1
  #
-## Macam - Macam Kondisional di Python ##
+		## Macam - Macam Kondisional di Python ##
 
 ![alt text](a.png)
 
@@ -20,8 +20,4 @@ Berikut adalah contoh penggunaan else di dalam kondisional Python:
 
 	![alt text](d.png)
 
-
-
-
-
-## SEKIAN DAN TERIMA KASIH ##
+			## SEKIAN DAN TERIMA KASIH ##
