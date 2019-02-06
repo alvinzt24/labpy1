@@ -20,4 +20,8 @@ Berikut adalah contoh penggunaan else di dalam kondisional Python:
 
 	![alt text](d.png)
 
+
+
+
+
 ## SEKIAN DAN TERIMA KASIH ##
