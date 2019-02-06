@@ -1,6 +1,6 @@
-#Latihan 2
-
-# Macam - Macam Kondisional di Python #
+# PROGRAM 1
+ #
+## Macam - Macam Kondisional di Python ##
 
 ![alt text](a.png)
 
