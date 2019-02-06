@@ -8,7 +8,7 @@
 Python memiliki statement if, if..else, dan if..elif..else. 
 Berikut ini adalah contoh penggunaan if di Python:
 
-![alt text](b.png)
+	![alt text](b.png)
 
 - Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. 
 Maka else digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan. 
