@@ -2,7 +2,7 @@
  #
 ## Macam - Macam Kondisional di Python ##
 
-![alt text](a.png)
+	![alt text](a.png)
 
 - Ada tiga macam kondisional di Python, yang dapat Anda gunakan untuk membangun alur logika untuk program Anda. 
 Python memiliki statement if, if..else, dan if..elif..else. 
