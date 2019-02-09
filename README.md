@@ -8,13 +8,13 @@ Berikut ini adalah contoh penggunaan if di Python:
 
 	![alt text](b.png)
 
-- Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement "if" dan sebelum statement "else":
+- Bila kondisi yang akan didefinisikan cukup banyak, Anda dapat menambah kondisi lain dengan menggunakan elif di bawah statement _**if**_ dan sebelum statement _**else**_:
 
 	![alt text](c.png)
 
 - Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. 
-Maka else digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan. 
-Berikut adalah contoh penggunaan else di dalam kondisional Python:
+Maka _**else**_ digunakan untuk menangani semua kondisi selain kondisi yang telah dituliskan. 
+Berikut adalah contoh penggunaan _**else**_ di dalam kondisional Python:
 
 	![alt text](d.png)
 
