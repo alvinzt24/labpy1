@@ -3,7 +3,7 @@
 ## Menentukan Bilangan Terbesar ##
 
 - Ada tiga macam kondisional di Python, yang dapat Anda gunakan untuk membangun alur logika untuk program Anda. 
-Python memiliki statement __if__, __if..else__, dan __if..elif..else__. 
+Python memiliki statement _if_, _if..else_, dan _if..elif..else_. 
 Berikut ini adalah contoh penggunaan if di Python:
 
 	![alt text](b.png)
