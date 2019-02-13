@@ -1,6 +1,6 @@
-a 	    = int(input("Masukan nilai a : "))
-b		= int(input("Masukan nilai b : "))
-c   	= int(input("Masukan nilai c : "))
+a 	= int(input("Masukan nilai a : "))
+b	= int(input("Masukan nilai b : "))
+c   = int(input("Masukan nilai c : "))
 
 print("======================================")
 if a > b and a > c :
